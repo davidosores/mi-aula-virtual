@@ -1,7 +1,11 @@
 Observación de Moodle
+
 Como estudiante, en la plataforma Moodle observo:
+
 Pagina Principal: Estan los cursos de distintos temas
+
 Area Personal: Un panel con la línea de tiempo, calendario de entregas y archivos privados
+
 Mis cursos: En la sección "Mis cursos", visualizo el mensaje "Usted no está matriculado en ningún curso".
 
 -----------------------------------------------------------------------------------------------------------------------------------------
