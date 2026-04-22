@@ -24,5 +24,5 @@ Tema: Manejo de "word" para la tercer edad
 
 Actividades
 1. Primer actividad: "Abrir Correctamente el "Word".
-2. Segunda Actividad: Aprender a cambiar escribir en word y editar texto.
+2. Segunda Actividad: Aprender a cambiar formato, escribir en word y editar texto.
 3. Tercer Actividad: Practicar el guardado del archivo en una carpeta propia, aprender a renombrar el documento y guardarlo en formato pdf.
