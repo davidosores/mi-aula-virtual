@@ -9,7 +9,7 @@ Mis cursos: En la sección "Mis cursos", visualizo el mensaje "Usted no está ma
 Curso elegido: "Aprendiendo a Diseñar con CANVA"
 
 Propuestas de actividades:
-1) Utilizar la herramienta para realizar una Fyer para promocionar un evento
+1) Utilizar la herramienta para realizar una Flyer para promocionar un evento
 2) Crear un e-book de cinco paginas que contenga información de la ciuadad en la que vive
 3) Crear un video informativo a cerca de la importancia del buen manejo de la tecnologia
 
